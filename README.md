@@ -1,1 +1,1 @@
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jawadnassar&count_private=true&showicons=true)](https://github.com/jawadnassar/)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jawadnassar&count_private=true&showicons=true)](#)
