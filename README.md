@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+```
                        .,,uod8B8bou,,.
               ..,uod8BBBBBBBBBBBBBBBBRPFT?l!i:.
          ,=m8BBBBBBBBBBBBBBBRPFT?!||||||||||||||
@@ -45,3 +46,4 @@ Here are some ideas to get you started:
                   `!988888888899fT|!^"'
                     `!9899fT|!^"'
                       `!^"'
+```
