@@ -1,19 +1,5 @@
-## Hi there 👋
+# Hello there :wave:
 
-<!--
-**jawadnassar/jawadnassar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ```
                        .,,uod8B8bou,,.
@@ -47,3 +33,29 @@ Here are some ideas to get you started:
                     `!9899fT|!^"'
                       `!^"'
 ```
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/jawadnassar/count.svg" />
+</p>
+
+
+
+
+
+
+
+
+
+## About me
+
+Hello, I'm Jawad! I've been immersed in software and computers for most of my life. Currently, I'm a senior engineering manager with a focus on application security. I've worn multiple hats in my career, from Software Developer to Platform Product Manager, Team Lead, and finally to Management.
+
+## Get in touch :coffee:
+- [Blog](https://jawad.ca){:target="_blank"}
+- [Notes](https://notes.jawad.ca){:target="_blank"}
+- [Mastodon](https://infosec.exchange/@jawad){:target="_blank"}
+- [LinkedIn](https://www.linkedin.com/in/jawadnassar/){:target="_blank"}
+- [Twitter](https://x.com/jawadnassar){:target="_blank"}
+- [RSS](https://jawad.ca/feed.xml){:target="_blank"}
+
+
